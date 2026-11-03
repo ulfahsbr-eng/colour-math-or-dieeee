@@ -1,0 +1,8 @@
+{
+  "name": "Remix Roblox Colour or Die - Matematik Tingkatan 1",
+  "description": "Game 3D survival ala Roblox Colour or Die berasaskan Matematik Tingkatan 1 Bab 4.5: Nisbah, Kadar, Kadaran, Peratusan, Pecahan \u0026 Perpuluhan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
